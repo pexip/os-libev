@@ -1,3 +1,13 @@
+libev (1:4.22-1) unstable; urgency=medium
+
+  * Imported Upstream version 4.22
+  * Restore original ev.3 after build
+  * Patch ev.pod for spelling error
+  * Copyright format 1.0
+  * Standards-Version 3.9.6
+
+ -- Jérémy Lal <kapouer@melix.org>  Mon, 11 Jan 2016 22:03:12 +0100
+
 libev (1:4.15-3) unstable; urgency=low
 
   * Priority: optional except on development packages
