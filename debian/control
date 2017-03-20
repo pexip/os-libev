@@ -9,7 +9,7 @@ Section: libs
 Homepage: http://libev.schmorp.de/
 Vcs-Browser: http://git.debian.org/?p=collab-maint/libev.git
 Vcs-Git: git://git.debian.org/git/collab-maint/libev.git
-XS-Pexip-Upstream: http://archive.ubuntu.com/ubuntu/ precise
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ jessie
 
 Package: libev-dev
 Section: libdevel
