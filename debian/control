@@ -8,7 +8,7 @@ Section: libs
 Homepage: http://libev.schmorp.de/
 Vcs-Git: git://anonscm.debian.org/collab-maint/libev.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/libev.git
-XS-Pexip-Upstream: http://ftp.debian.org/debian/ jessie
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ stretch
 
 Package: libev-dev
 Priority: extra
